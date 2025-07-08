@@ -1,0 +1,163 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+header{
+    position:absolute;
+    top: 0%;
+    height: 90px;
+    width: 100%;
+    background-color: rgb(243, 233, 215);
+
+}
+
+#mail img{
+    position: absolute;
+    padding: 20px;
+    left: 20px;
+    width: 15px;
+}
+#mail p{
+    position: absolute;
+    left: 70px
+}
+
+#add img{
+    position: absolute;
+    padding: 13px;
+    left: 210px;
+    width: 20px;
+}
+#add p{
+    position: absolute;
+    left: 260px
+}
+header h3{
+    position: absolute;
+    color: black;
+    left: 50px;
+    top: 40px;
+}
+
+header nav{
+    float: right;
+	padding-right: 35px;
+	padding: 0px 30px 50px 90px; 
+	font-weight: bold;
+	margin-top: 30px;
+}
+header a{
+	text-decoration: none;
+	color: black;
+}
+header li{
+    display: inline-block;
+    padding: 10px;
+    font-size: 13px;
+}
+#himg{
+    position: absolute;
+    width: 1255px;
+    height: 900px;
+}
+.icon img{
+    width: 30px;
+    top: -20px;
+    position: relative;
+    left: 1080px;
+}
+img li{
+    padding: 10px;
+}
+
+
+.pics img{
+    position: absolute;
+    top: 90PX;
+    width:100%;
+    left: 0;
+    height: 90%;
+}
+.pics span{
+    position: absolute;
+    background-color: rgba( 0,0,0,0.7);
+    top: 90PX;
+    width: 100%;
+    left: 0;
+    height: 90%;
+}
+.pics p{
+    position: absolute;
+    top: 160PX;
+    color: red;
+    font-size: 20px;
+    left: 615px;
+}
+.pics h2{
+    position: absolute;
+    top: 210px;
+    color: white;
+    font-size: 35px;
+    left: 530px;
+}
+
+#map{
+    position: absolute;
+    top: 70%;
+    left: 80px;
+    width: 700px;
+    height: 500px;
+
+}
+
+
+
+form{
+    position: absolute;
+    border-radius: 10px;
+    top: 70%;
+    width: 400px;
+    height: 650px;
+    left: 850px;
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba( 0,0,0,0.7);
+
+}
+
+#email{
+    position: relative;
+    border-radius: 20px;
+    top: 10px;
+    left: 20px;
+    width: 300px;
+    height: 30px;
+}
+
+.reg h3{
+    position: relative;
+    top: 10px;
+    left: 25px;
+    font-size: 17px;
+}
+#mess{
+    position: absolute;
+    top: 400px;
+    left: 20px;
+    width: 300px;
+    height: 120px;
+}
+
+#regg{
+    position: relative;
+    top: 180px;
+    border-radius: 20px;
+    left: 20px;
+    background-color: black;
+    width: 115px;
+    height: 35px;
+    color: white;
+}
